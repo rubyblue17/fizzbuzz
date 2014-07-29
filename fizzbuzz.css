@@ -1,0 +1,29 @@
+body {
+	background: #eee;
+}
+
+#input_box {
+	background: thistle;
+	width: 500px;
+	height: 100%;
+	margin: 30px auto;
+	text-align: center;
+	padding: 40px 0 40px 0;
+}
+
+h1 {
+	font-family: Arial, sans serif;
+	font-style: 28px;
+	color: cornflowerblue;
+	text-align: center;
+	margin: 70px 0 0 0;
+
+}
+
+h2 {
+	font-family: Arial, sans serif;
+	font-style: 18px;
+	color: #fff;
+	text-align: center;
+
+}
